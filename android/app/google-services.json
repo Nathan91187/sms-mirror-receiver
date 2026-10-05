@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "936079448326",
+    "firebase_url": "https://sms-mirror-47328-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sms-mirror-47328",
+    "storage_bucket": "sms-mirror-47328.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936079448326:android:1e5a089788135e794f2687",
+        "android_client_info": {
+          "package_name": "com.example.sms_mirror"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMctBJ40paBpHEUWChKt0oqcFIqXUscsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936079448326:android:a86e1794c017d6154f2687",
+        "android_client_info": {
+          "package_name": "com.example.sms_mirror_display"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMctBJ40paBpHEUWChKt0oqcFIqXUscsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
